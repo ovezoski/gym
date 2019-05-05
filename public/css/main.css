@@ -1,0 +1,36 @@
+
+
+*{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+}
+
+
+body{
+    background: #5DAA68;
+}
+
+.jumbotron{
+    padding: 2rem;
+}
+
+a:link{
+    color: inherit;
+}
+
+.dg{
+    background: #3F6844;
+    color:white !important;
+    
+}
+
+
+.lg{
+    background: #5DAA68;
+    color: white;
+}
+
+.wh{
+    background: #FAF1CF;
+    color: #3F6844;
+}
